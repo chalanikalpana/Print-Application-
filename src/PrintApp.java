@@ -2,7 +2,7 @@
 public class PrintApp {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		
 		String creator;
 		double number1;
 		double number2;
