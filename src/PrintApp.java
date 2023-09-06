@@ -16,7 +16,7 @@ public class PrintApp {
 		creator = "Kalpana";
 		System.out.println("This app is made by:" + creator);
 		
-		number1=5;
+		number1=8;
 		number2=2;
 		
 		
